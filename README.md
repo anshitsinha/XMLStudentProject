@@ -2,6 +2,10 @@
 
 This project contains an XML file for student details and an HTML file that displays this information in a tabular format.
 
+## Deployed Link
+You can view the live version of the project at: [https://anshitsinha.github.io/XMLStudentProject/](https://anshitsinha.github.io/XMLStudentProject/)
+
+
 ## Files Included
 - `students.xml`: XML file containing student details.
 - `index.html`: HTML file that fetches and displays student information from the XML file.
